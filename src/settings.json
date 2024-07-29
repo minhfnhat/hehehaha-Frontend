@@ -1,0 +1,80 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover gourmet experiences that turn everyday meals into culinary masterpieces. Let's make every bite extraordinary.",
+        "title": "Savor the Flavor: Elevate Every Meal"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover gourmet experiences that turn everyday meals into culinary masterpieces. Let's make every bite extraordinary.",
+        "title": "Savor the Flavor: Elevate Every Meal"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Subscribe to our newsletter for delicious recipes, exclusive discounts, and early access to new food products. Stay informed and enjoy the culinary journey with us.",
+        "emailLabel": "Your Email Address",
+        "heading": "Stay Updated with the Latest Food Trends"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover gourmet experiences that turn everyday meals into culinary masterpieces. Let's make every bite extraordinary.",
+        "title": "Savor the Flavor: Elevate Every Meal"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover gourmet experiences that turn everyday meals into culinary masterpieces. Let's make every bite extraordinary.",
+        "title": "Savor the Flavor: Elevate Every Meal"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover gourmet experiences that turn everyday meals into culinary masterpieces. Let's make every bite extraordinary.",
+        "title": "Savor the Flavor: Elevate Every Meal"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover gourmet experiences that turn everyday meals into culinary masterpieces. Let's make every bite extraordinary.",
+        "title": "Savor the Flavor: Elevate Every Meal"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover gourmet experiences that turn everyday meals into culinary masterpieces. Let's make every bite extraordinary.",
+        "title": "Savor the Flavor: Elevate Every Meal"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover gourmet experiences that turn everyday meals into culinary masterpieces. Let's make every bite extraordinary.",
+        "title": "Savor the Flavor: Elevate Every Meal"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover gourmet experiences that turn everyday meals into culinary masterpieces. Let's make every bite extraordinary.",
+        "title": "Savor the Flavor: Elevate Every Meal"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Savor the Flavor: Elevate Every Meal",
+  "subtitle": "Discover gourmet experiences that turn everyday meals into culinary masterpieces. Let's make every bite extraordinary."
+}
